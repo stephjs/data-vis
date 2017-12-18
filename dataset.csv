@@ -1,0 +1,312 @@
+Account,Country,MonthBooked,ConsumerGroup,PromotionCode,Users,Revenue,Streams
+Spotify,Peru,4/1/17,Ad-Funded,Free,123049,3643,47100000
+Spotify,Peru,8/1/17,Ad-Funded,Free,134447,3730,55800000
+Spotify,Peru,6/1/17,Ad-Funded,Free,133189,3765,52100000
+Spotify,Peru,5/1/17,Ad-Funded,Free,131225,3933,53300000
+Spotify,Peru,9/1/17,Ad-Funded,Free,141295,3801,53400000
+Spotify,Peru,10/1/17,Ad-Funded,Free,132673,3784,54100000
+Spotify,Peru,7/1/17,Ad-Funded,Free,135045,3961,55400000
+Spotify,Chile,5/1/17,Ad-Funded,Free,142439,2429,56500000
+Spotify,Chile,7/1/17,Ad-Funded,Free,133113,2131,53800000
+Spotify,Chile,8/1/17,Ad-Funded,Free,152250,2527,64300000
+Spotify,Chile,9/1/17,Ad-Funded,Free,165720,2499,67800000
+Spotify,Chile,10/1/17,Ad-Funded,Free,179887,3025,79100000
+Spotify,Chile,4/1/17,Ad-Funded,Free,136521,2315,51600000
+Spotify,Chile,6/1/17,Ad-Funded,Free,135292,2112,51500000
+Spotify,Italy,4/1/17,Ad-Funded,Free,337268,11180,109000000
+Spotify,Italy,6/1/17,Ad-Funded,Free,355797,11727,119000000
+Spotify,Italy,8/1/17,Ad-Funded,Free,356285,11554,120000000
+Spotify,Italy,10/1/17,Ad-Funded,Free,424287,15325,157000000
+Spotify,Italy,7/1/17,Ad-Funded,Free,352243,12103,122000000
+Spotify,Italy,5/1/17,Ad-Funded,Free,345047,11623,119000000
+Spotify,Italy,9/1/17,Ad-Funded,Free,420515,14723,146000000
+Spotify,Japan,10/1/17,Ad-Funded,Free,92566,3621,27200000
+Apple,Japan,8/1/17,Premium,Paid,189677,119643,78400000
+Apple,Japan,10/1/17,Premium,Paid,211664,173668,108000000
+Apple,Japan,5/1/17,Premium,Paid,173235,122959,73000000
+Apple,Japan,9/1/17,Premium,Paid,200376,131527,85600000
+Apple,Japan,4/1/17,Premium,Paid,161376,146527,85100000
+Apple,Japan,7/1/17,Premium,Paid,170403,131173,86600000
+Apple,Japan,6/1/17,Premium,Paid,162712,109184,70500000
+Spotify,Spain,6/1/17,Premium,Paid,82881,66111,79800000
+Spotify,Spain,7/1/17,Ad-Funded,Free,428931,13834,156000000
+Spotify,Spain,4/1/17,Ad-Funded,Free,497887,16101,175000000
+Spotify,Spain,4/1/17,Premium,Paid,88811,72537,81900000
+Spotify,Spain,8/1/17,Premium,Paid,86883,68892,78400000
+Spotify,Spain,5/1/17,Premium,Paid,90120,74666,88300000
+Spotify,Spain,9/1/17,Premium,Paid,95763,74414,85400000
+Spotify,Spain,10/1/17,Premium,Paid,105443,87033,94900000
+Spotify,Spain,5/1/17,Ad-Funded,Free,488250,17489,190000000
+Spotify,Spain,6/1/17,Ad-Funded,Free,452921,14698,166000000
+Spotify,Spain,7/1/17,Premium,Paid,84696,68134,82400000
+Spotify,Spain,8/1/17,Ad-Funded,Free,417197,12731,149000000
+Spotify,Spain,10/1/17,Ad-Funded,Free,498659,16114,191000000
+Spotify,Spain,9/1/17,Ad-Funded,Free,482942,14911,174000000
+Spotify,Brazil,9/1/17,Premium,Paid,347034,195313,431000000
+Spotify,Brazil,4/1/17,Ad-Funded,Free,551797,7349,181000000
+Spotify,Brazil,8/1/17,Ad-Funded,Free,564964,7096,204000000
+Spotify,Brazil,6/1/17,Ad-Funded,Free,522309,6309,175000000
+Spotify,Brazil,6/1/17,Premium,Paid,315844,183480,384000000
+Spotify,Brazil,7/1/17,Premium,Paid,296291,172137,372000000
+Spotify,Brazil,4/1/17,Premium,Paid,287076,178872,341000000
+Spotify,Brazil,10/1/17,Premium,Paid,353857,195478,442000000
+Spotify,Brazil,7/1/17,Ad-Funded,Free,530944,6938,190000000
+Spotify,Brazil,8/1/17,Premium,Paid,315064,175281,405000000
+Spotify,Brazil,5/1/17,Ad-Funded,Free,535526,6993,184000000
+Spotify,Brazil,5/1/17,Premium,Paid,302735,182887,369000000
+Spotify,Brazil,9/1/17,Ad-Funded,Free,595943,7111,203000000
+Spotify,Brazil,10/1/17,Ad-Funded,Free,655606,7936,226000000
+Deezer,Brazil,9/1/17,Ad-Funded,Free,194090,730,3512335
+Deezer,Brazil,4/1/17,Ad-Funded,Free,139896,885,3828553
+Deezer,Brazil,8/1/17,Ad-Funded,Free,175297,714,3499679
+Deezer,Brazil,7/1/17,Ad-Funded,Free,174963,840,3924281
+Deezer,Brazil,5/1/17,Ad-Funded,Free,163558,1062,4610029
+Deezer,Brazil,6/1/17,Ad-Funded,Free,163139,963,4455581
+Deezer,Brazil,8/1/17,Premium,Paid,860637,85448,60400000
+Deezer,Brazil,6/1/17,Premium,Paid,733180,75711,46800000
+Deezer,Brazil,4/1/17,Premium,Paid,503418,62016,33000000
+Deezer,Brazil,5/1/17,Premium,Paid,530605,62743,39600000
+Deezer,Brazil,9/1/17,Premium,Paid,847917,85114,64500000
+Deezer,Brazil,7/1/17,Premium,Paid,731709,77604,50700000
+Spotify,Canada,4/1/17,Premium,Paid,129762,123697,132000000
+Spotify,Canada,9/1/17,Ad-Funded,Free,250369,19643,98400000
+Spotify,Canada,7/1/17,Ad-Funded,Free,231742,18652,91100000
+Spotify,Canada,9/1/17,Premium,Paid,162000,139161,162000000
+Spotify,Canada,10/1/17,Ad-Funded,Free,248751,21218,108000000
+Spotify,Canada,8/1/17,Premium,Paid,138324,116279,142000000
+Spotify,Canada,7/1/17,Premium,Paid,133525,118681,139000000
+Spotify,Canada,5/1/17,Premium,Paid,130493,117373,138000000
+Spotify,Canada,10/1/17,Premium,Paid,182993,166952,186000000
+Spotify,Canada,5/1/17,Ad-Funded,Free,260154,21627,108000000
+Spotify,Canada,4/1/17,Ad-Funded,Free,260680,21948,109000000
+Spotify,Canada,8/1/17,Ad-Funded,Free,226306,16832,88000000
+Spotify,Canada,6/1/17,Ad-Funded,Free,234088,18791,94500000
+Spotify,Canada,6/1/17,Premium,Paid,145410,133860,148000000
+Apple,Canada,8/1/17,Premium,Paid,129235,129721,82600000
+Apple,Canada,5/1/17,Premium,Paid,118687,124282,76100000
+Apple,Canada,9/1/17,Premium,Paid,138584,143073,88600000
+Apple,Canada,7/1/17,Premium,Paid,130901,174466,99600000
+Apple,Canada,10/1/17,Premium,Paid,140025,175666,107000000
+Apple,Canada,4/1/17,Premium,Paid,116303,158797,92900000
+Apple,Canada,6/1/17,Premium,Paid,123978,131758,80600000
+Spotify,France,6/1/17,Premium,Paid,100415,101710,86400000
+Spotify,France,8/1/17,Ad-Funded,Free,266613,19553,99200000
+Spotify,France,5/1/17,Premium,Paid,100562,107301,89700000
+Spotify,France,7/1/17,Ad-Funded,Free,271377,19883,101000000
+Spotify,France,5/1/17,Ad-Funded,Free,265265,20074,97600000
+Spotify,France,4/1/17,Premium,Paid,100561,107200,86600000
+Spotify,France,8/1/17,Premium,Paid,99927,100718,85800000
+Spotify,France,10/1/17,Ad-Funded,Free,308616,23858,127000000
+Spotify,France,4/1/17,Ad-Funded,Free,249723,17625,89300000
+Spotify,France,6/1/17,Ad-Funded,Free,271127,19456,97600000
+Spotify,France,7/1/17,Premium,Paid,103703,106997,91843109
+Spotify,France,9/1/17,Premium,Paid,122257,123995,104638190
+Spotify,France,9/1/17,Ad-Funded,Free,277057,19688,105057858
+Spotify,France,10/1/17,Premium,Paid,117444,117430,107852714
+Deezer,France,9/1/17,Ad-Funded,Free,422910,13167,29269940
+Deezer,France,7/1/17,Ad-Funded,Free,381537,14322,31229258
+Deezer,France,6/1/17,Ad-Funded,Free,405975,15007,33362852
+Deezer,France,5/1/17,Ad-Funded,Free,391531,15553,33130896
+Deezer,France,4/1/17,Ad-Funded,Free,385657,14590,31874180
+Deezer,France,8/1/17,Ad-Funded,Free,370764,11659,25576947
+Deezer,France,9/1/17,Premium,Paid,83135,95407,55960111
+Spotify,Mexico,4/1/17,Ad-Funded,Free,474254,8868,189224494
+Spotify,Mexico,4/1/17,Premium,Paid,168677,94495,174484401
+Spotify,Mexico,9/1/17,Ad-Funded,Free,499280,8735,198436436
+Spotify,Mexico,6/1/17,Ad-Funded,Free,478637,9420,196684671
+Spotify,Mexico,10/1/17,Premium,Paid,176169,87587,191975772
+Spotify,Mexico,6/1/17,Premium,Paid,166822,95155,175163377
+Spotify,Mexico,9/1/17,Premium,Paid,186970,99507,191963958
+Spotify,Mexico,5/1/17,Premium,Paid,174657,97521,188206927
+Spotify,Mexico,8/1/17,Ad-Funded,Free,466508,8716,197261165
+Spotify,Mexico,10/1/17,Ad-Funded,Free,539507,9663,224160527
+Spotify,Mexico,7/1/17,Premium,Paid,150541,82850,161230193
+Spotify,Mexico,7/1/17,Ad-Funded,Free,457154,8841,189540600
+Spotify,Mexico,5/1/17,Ad-Funded,Free,471846,9174,198826204
+Spotify,Mexico,8/1/17,Premium,Paid,163449,87416,179413283
+Spotify,Norway,5/1/17,Premium,Paid,139431,135915,117740891
+Spotify,Norway,4/1/17,Premium,Paid,139338,130936,109500169
+Spotify,Norway,8/1/17,Premium,Paid,146680,143545,115424321
+Spotify,Norway,9/1/17,Premium,Paid,158147,155814,123983150
+Spotify,Norway,6/1/17,Premium,Paid,146090,137332,119052331
+Spotify,Norway,7/1/17,Premium,Paid,149548,149697,118064203
+Spotify,Norway,10/1/17,Premium,Paid,148769,142317,120892499
+Spotify,Poland,5/1/17,Ad-Funded,Free,99353,3416,41166547
+Spotify,Poland,7/1/17,Ad-Funded,Free,89744,2837,35787116
+Spotify,Poland,8/1/17,Ad-Funded,Free,96607,3023,38396963
+Spotify,Poland,4/1/17,Ad-Funded,Free,101363,3382,40747742
+Spotify,Poland,10/1/17,Ad-Funded,Free,104115,3448,43647643
+Spotify,Poland,6/1/17,Ad-Funded,Free,97274,3137,38373450
+Spotify,Poland,9/1/17,Ad-Funded,Free,96841,2849,37645352
+Apple,Russia,9/1/17,Premium,Paid,116578,14716,46294438
+Apple,Russia,6/1/17,Premium,Paid,95063,13030,37090554
+Apple,Russia,8/1/17,Premium,Paid,107586,13427,42908395
+Apple,Russia,7/1/17,Premium,Paid,97086,15459,45974114
+Apple,Russia,5/1/17,Premium,Paid,92920,13395,35022532
+Apple,Russia,10/1/17,Premium,Paid,116916,17596,58667819
+Apple,Russia,4/1/17,Premium,Paid,92524,17554,43017918
+Spotify,Sweden,9/1/17,Ad-Funded,Free,97276,7872,35675391
+Spotify,Sweden,10/1/17,Ad-Funded,Free,89025,7382,35502268
+Spotify,Sweden,4/1/17,Ad-Funded,Free,97471,8122,37553285
+Spotify,Sweden,8/1/17,Premium,Paid,246249,237914,195303581
+Spotify,Sweden,10/1/17,Premium,Paid,254532,240628,207786193
+Spotify,Sweden,6/1/17,Ad-Funded,Free,87379,6745,31942606
+Spotify,Sweden,4/1/17,Premium,Paid,248424,234561,200174460
+Spotify,Sweden,5/1/17,Ad-Funded,Free,96080,8295,38196331
+Spotify,Sweden,9/1/17,Premium,Paid,248681,236006,197869695
+Spotify,Sweden,7/1/17,Premium,Paid,260075,254418,208000023
+Spotify,Sweden,6/1/17,Premium,Paid,251687,238278,205929634
+Spotify,Sweden,5/1/17,Premium,Paid,244257,230959,209059303
+Spotify,Turkey,5/1/17,Ad-Funded,Free,94049,1569,27986354
+Spotify,Turkey,4/1/17,Ad-Funded,Free,87438,1408,25019048
+Spotify,Turkey,10/1/17,Ad-Funded,Free,105632,1498,32505458
+Spotify,Turkey,8/1/17,Ad-Funded,Free,97582,1479,28712105
+Spotify,Turkey,7/1/17,Ad-Funded,Free,85820,1322,25297931
+Spotify,Turkey,6/1/17,Ad-Funded,Free,86392,1301,23851521
+Spotify,Turkey,9/1/17,Ad-Funded,Free,100047,1362,27325781
+Spotify,Germany,7/1/17,Premium,Paid,238542,208127,231110442
+Spotify,Germany,9/1/17,Premium,Paid,265779,220798,242375576
+Spotify,Germany,7/1/17,Ad-Funded,Free,388923,28107,146518170
+Spotify,Germany,10/1/17,Ad-Funded,Free,393414,27678,149757527
+Spotify,Germany,10/1/17,Premium,Paid,305402,266170,290321766
+Spotify,Germany,8/1/17,Premium,Paid,251022,214734,235483142
+Spotify,Germany,5/1/17,Premium,Paid,246447,220179,237662418
+Spotify,Germany,4/1/17,Premium,Paid,247847,226895,229100045
+Spotify,Germany,5/1/17,Ad-Funded,Free,370842,26134,138947537
+Spotify,Germany,4/1/17,Ad-Funded,Free,406703,29872,150747118
+Spotify,Germany,9/1/17,Ad-Funded,Free,370239,23550,130321460
+Spotify,Germany,6/1/17,Premium,Paid,259173,232382,243909733
+Spotify,Germany,8/1/17,Ad-Funded,Free,347780,23400,128193562
+Spotify,Germany,6/1/17,Ad-Funded,Free,359723,24173,130867658
+Spotify,Colombia,8/1/17,Ad-Funded,Free,82908,2093,30919301
+Spotify,Colombia,9/1/17,Ad-Funded,Free,85521,2102,30789635
+Spotify,Colombia,10/1/17,Ad-Funded,Free,86746,2156,31870979
+Spotify,Argentina,6/1/17,Premium,Paid,101417,35909,64866521
+Spotify,Argentina,10/1/17,Premium,Paid,117877,38192,83293003
+Spotify,Argentina,8/1/17,Ad-Funded,Free,235382,2358,88553878
+Spotify,Argentina,9/1/17,Premium,Paid,111122,34467,76155180
+Spotify,Argentina,7/1/17,Ad-Funded,Free,210030,2116,78517495
+Spotify,Argentina,8/1/17,Premium,Paid,101615,32037,71277327
+Spotify,Argentina,5/1/17,Ad-Funded,Free,205165,2246,74013453
+Spotify,Argentina,5/1/17,Premium,Paid,110980,43587,72577892
+Spotify,Argentina,9/1/17,Ad-Funded,Free,225874,2136,83383540
+Spotify,Argentina,7/1/17,Premium,Paid,103426,34389,70496657
+Spotify,Argentina,4/1/17,Premium,Paid,107375,43956,68923625
+Spotify,Argentina,4/1/17,Ad-Funded,Free,205514,2303,70807872
+Spotify,Argentina,10/1/17,Ad-Funded,Free,249119,2507,94600803
+Spotify,Argentina,6/1/17,Ad-Funded,Free,212609,2235,74933726
+Spotify,Australia,10/1/17,Premium,Paid,236915,272718,214903902
+Spotify,Australia,6/1/17,Ad-Funded,Free,225188,22417,87485850
+Spotify,Australia,9/1/17,Premium,Paid,233970,276020,203487472
+Spotify,Australia,9/1/17,Ad-Funded,Free,260882,24952,107269804
+Spotify,Australia,5/1/17,Ad-Funded,Free,218237,21799,90381959
+Spotify,Australia,8/1/17,Ad-Funded,Free,244950,24859,107406897
+Spotify,Australia,8/1/17,Premium,Paid,196600,224050,174607992
+Spotify,Australia,10/1/17,Ad-Funded,Free,287728,29683,123961687
+Spotify,Australia,4/1/17,Ad-Funded,Free,207563,18946,78104151
+Spotify,Australia,4/1/17,Premium,Paid,195600,235349,155327738
+Spotify,Australia,7/1/17,Premium,Paid,195375,231920,164448973
+Spotify,Australia,5/1/17,Premium,Paid,197614,228088,168202823
+Spotify,Australia,7/1/17,Ad-Funded,Free,203409,20129,81592419
+Spotify,Australia,6/1/17,Premium,Paid,210270,254205,171046505
+Apple,Australia,10/1/17,Premium,Paid,85926,111414,48096748
+Spotify,Indonesia,5/1/17,Ad-Funded,Free,120560,866,47344506
+Spotify,Indonesia,6/1/17,Ad-Funded,Free,123169,819,43269982
+Spotify,Indonesia,8/1/17,Ad-Funded,Free,142402,987,55540315
+Spotify,Indonesia,7/1/17,Ad-Funded,Free,123671,890,48007578
+Spotify,Indonesia,10/1/17,Ad-Funded,Free,171164,1386,70928521
+Spotify,Indonesia,9/1/17,Ad-Funded,Free,164815,1219,63186439
+Spotify,Indonesia,4/1/17,Ad-Funded,Free,124985,849,46005028
+Spotify,Netherlands,5/1/17,Ad-Funded,Free,149127,12025,55172583
+Spotify,Netherlands,7/1/17,Premium,Paid,114206,120858,96734883
+Spotify,Netherlands,10/1/17,Ad-Funded,Free,153678,12619,59170740
+Spotify,Netherlands,5/1/17,Premium,Paid,112169,117187,97632583
+Spotify,Netherlands,4/1/17,Premium,Paid,112677,108874,95056461
+Spotify,Netherlands,7/1/17,Ad-Funded,Free,125934,9857,43417117
+Spotify,Netherlands,4/1/17,Ad-Funded,Free,152621,10600,52506503
+Spotify,Netherlands,10/1/17,Premium,Paid,131104,132001,116670768
+Spotify,Netherlands,9/1/17,Ad-Funded,Free,141411,10869,50227452
+Spotify,Netherlands,6/1/17,Premium,Paid,113148,117576,96451479
+Spotify,Netherlands,6/1/17,Ad-Funded,Free,145480,12175,52006461
+Spotify,Netherlands,8/1/17,Ad-Funded,Free,118372,8580,41053397
+Spotify,Netherlands,8/1/17,Premium,Paid,112082,110857,93117917
+Spotify,Netherlands,9/1/17,Premium,Paid,128849,130289,108836519
+Spotify,Philippines,7/1/17,Ad-Funded,Free,226325,1203,85166987
+Spotify,Philippines,6/1/17,Ad-Funded,Free,236383,1227,82286154
+Spotify,Philippines,9/1/17,Ad-Funded,Free,235742,1205,86489998
+Spotify,Philippines,10/1/17,Ad-Funded,Free,236182,1254,91625874
+Spotify,Philippines,5/1/17,Ad-Funded,Free,212661,1111,78605513
+Spotify,Philippines,8/1/17,Ad-Funded,Free,221039,1104,83278965
+Spotify,Philippines,4/1/17,Ad-Funded,Free,220652,1084,76349976
+Apple,China,5/1/17,Premium,Paid,162832,22785,8707293
+Apple,China,7/1/17,Premium,Paid,178448,30543,10496963
+Apple,China,10/1/17,Premium,Paid,208719,39012,12884325
+Apple,China,4/1/17,Premium,Paid,153860,27003,10761949
+Apple,China,9/1/17,Premium,Paid,200924,29426,10616399
+Apple,China,6/1/17,Premium,Paid,174681,25792,9222280
+Apple,China,8/1/17,Premium,Paid,198546,28988,10178830
+Apple,China,5/1/17,Premium,Trial,124262,216,4641789
+Apple,China,6/1/17,Premium,Trial,126526,220,4496843
+Apple,China,9/1/17,Premium,Trial,136590,285,5864107
+Apple,China,8/1/17,Premium,Trial,128981,248,5145457
+Apple,China,10/1/17,Premium,Trial,173799,452,8703703
+Apple,China,7/1/17,Premium,Trial,128561,257,5416890
+Apple,China,4/1/17,Premium,Trial,131638,309,6581258
+Spotify,United States,4/1/17,Ad-Funded,Free,3105854,556590,1363206286
+Spotify,United States,5/1/17,Ad-Funded,Free,2878793,533581,1339681537
+Spotify,United States,4/1/17,Premium,Paid,2115984,2497352,2359755519
+Spotify,United States,8/1/17,Ad-Funded,Free,2633236,410390,1196187631
+Spotify,United States,10/1/17,Premium,Paid,2255654,2326476,2680189403
+Spotify,United States,6/1/17,Ad-Funded,Free,2729313,460734,1195451207
+Spotify,United States,10/1/17,Ad-Funded,Free,2942683,499472,1387668524
+Spotify,United States,8/1/17,Premium,Paid,1991433,1992461,2334571139
+Spotify,United States,5/1/17,Premium,Paid,1981622,2234432,2336724443
+Spotify,United States,9/1/17,Premium,Paid,2328194,2435193,2630782299
+Spotify,United States,6/1/17,Premium,Paid,2021125,2254889,2292825330
+Spotify,United States,7/1/17,Ad-Funded,Free,2813559,462818,1227067745
+Spotify,United States,9/1/17,Ad-Funded,Free,2809746,440363,1264318310
+Spotify,United States,7/1/17,Premium,Paid,2154666,2342916,2452409929
+Spotify,United States,7/1/17,Premium,Free,229542,87489,204771417
+Spotify,United States,8/1/17,Premium,Free,201269,71529,176005630
+Spotify,United States,6/1/17,Premium,Free,162698,65846,156137424
+Apple,United States,10/1/17,Premium,Paid,1953758,2789045,1766835314
+Apple,United States,9/1/17,Premium,Paid,1849460,2140059,1371811209
+Apple,United States,5/1/17,Premium,Paid,1652131,2242022,1205194755
+Apple,United States,4/1/17,Premium,Paid,1603502,2952599,1503437205
+Apple,United States,6/1/17,Premium,Paid,1698938,2200809,1229622021
+Apple,United States,8/1/17,Premium,Paid,1764953,2015038,1313568284
+Apple,United States,7/1/17,Premium,Paid,1765030,2759267,1530601284
+Apple,United States,10/1/17,Premium,Trial,401918,96669,243139923
+Apple,United States,9/1/17,Premium,Trial,373999,69846,181093434
+Apple,United States,6/1/17,Premium,Trial,393205,82114,190752630
+Apple,United States,4/1/17,Premium,Trial,352933,110408,234509971
+Apple,United States,7/1/17,Premium,Trial,384979,89940,216631009
+Apple,United States,8/1/17,Premium,Trial,405232,74985,192579581
+Apple,United States,5/1/17,Premium,Trial,380708,89166,199816154
+Spotify,United Kingdom,5/1/17,Ad-Funded,Free,502560,60603,189136965
+Spotify,United Kingdom,10/1/17,Ad-Funded,Free,491760,55284,178054132
+Spotify,United Kingdom,9/1/17,Premium,Paid,581637,622088,447341847
+Spotify,United Kingdom,9/1/17,Ad-Funded,Free,453430,46795,152885360
+Spotify,United Kingdom,4/1/17,Premium,Paid,442235,483023,366975674
+Spotify,United Kingdom,6/1/17,Premium,Paid,463628,497170,374182440
+Spotify,United Kingdom,7/1/17,Ad-Funded,Free,450062,47037,152309457
+Spotify,United Kingdom,5/1/17,Premium,Paid,444558,472552,396716311
+Spotify,United Kingdom,8/1/17,Ad-Funded,Free,421028,41158,144105884
+Spotify,United Kingdom,6/1/17,Ad-Funded,Free,453203,48629,154874221
+Spotify,United Kingdom,10/1/17,Premium,Paid,603059,644617,495783334
+Spotify,United Kingdom,4/1/17,Ad-Funded,Free,522558,62672,185863220
+Spotify,United Kingdom,8/1/17,Premium,Paid,465085,462121,374303725
+Spotify,United Kingdom,7/1/17,Premium,Paid,465153,489592,376174726
+Deezer,United Kingdom,9/1/17,Ad-Funded,Free,87979,2054,3096457
+Deezer,United Kingdom,4/1/17,Ad-Funded,Free,94102,2656,3786710
+Deezer,United Kingdom,6/1/17,Ad-Funded,Free,102577,2806,4047676
+Deezer,United Kingdom,5/1/17,Ad-Funded,Free,91200,2595,3875025
+Deezer,United Kingdom,7/1/17,Ad-Funded,Free,87918,2551,3843331
+Deezer,United Kingdom,8/1/17,Ad-Funded,Free,84126,1928,3097471
+Apple,United Kingdom,7/1/17,Premium,Paid,192352,307282,100726687
+Apple,United Kingdom,6/1/17,Premium,Paid,183404,240652,81274379
+Apple,United Kingdom,4/1/17,Premium,Paid,174671,305104,96046037
+Apple,United Kingdom,5/1/17,Premium,Paid,181723,243490,81679971
+Apple,United Kingdom,8/1/17,Premium,Paid,310666,305123,109052084
+Apple,United Kingdom,10/1/17,Premium,Paid,336629,446266,143802017
+Apple,United Kingdom,9/1/17,Premium,Paid,334238,359729,116685723
