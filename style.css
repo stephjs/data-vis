@@ -1,9 +1,13 @@
-.returnchart, .chartsdata {
+.returnchart, .filtersdata, #regions_div {
 	display: none;
 }
 .container {
 	width: 90%;
 	margin: 0 auto;
+}
+
+#regions_div {
+  margin: 0 auto;
 }
 
 .charts .title {

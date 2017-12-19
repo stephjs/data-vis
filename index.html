@@ -6,19 +6,21 @@
   </head>
   <body>
     <div class="container">
-      <input type="file" name="file" id="file" />
+      <div class="fileupload">
+        <input type="file" name="file" id="file" />
+      </div>
       
     
       <div class="returnchart">
-        <h1>All the Data</h1>
+        <h1 class="maintitle">All Data</h1>
 
         <div class="charts">
-          <button class="title">Add Filters</button>
-          <div class="chartsdata">
+          <div class="filtersdata">
             <form id="filtersform">
 
               <label for="metric">Metric</label>
               <select name="metric" id="metric" class="selectmenu">
+                <option>- Select -</option>
                 <option value="Users">Users</option>
                 <option value="Streams">Streams</option>
                 <option value="Revenue">Revenue</option>
@@ -40,14 +42,15 @@
               <select name="PromotionCode" id="PromotionCode" class="selectmenu">
               </select><br>
 
-              <input type="submit">
+              <input type="submit" value="Send Request">
 
             </form>
-            <div id="regions_div" style="width: 900px; height: 500px;"></div>
+            
           </div>
+          <div id="regions_div" style="width: 900px; height: 500px; display: none"></div>
           <br><br>
         </div>
-        <div id="universal_table"></div>
+        <div id="universal_table"></div><br><br>
       </div>
     </div>
     <script src="./papaparse.js"></script>

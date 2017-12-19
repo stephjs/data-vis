@@ -1,3 +1,8 @@
+/*!
+    Papa Parse
+    https://github.com/mholt/PapaParse
+*/
+
 (function (e) {
     "use strict";
 
