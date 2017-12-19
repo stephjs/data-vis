@@ -1,5 +1,6 @@
 <html>
   <head>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
     <link rel="stylesheet" type="text/css" href="./style.css"/>
@@ -7,7 +8,10 @@
   <body>
     <div class="container">
       <div class="fileupload">
-        <input type="file" name="file" id="file" />
+        <div class="jumbotron">
+          <h2>Upload a CSV file to begin data visualization</h2>
+          <input type="file" name="file" id="file" />
+        </div>
       </div>
       
     
@@ -16,9 +20,12 @@
 
         <div class="charts">
           <div class="filtersdata">
-            <form id="filtersform">
+            <div class="text-instruction">
+              Filter data by selecting options from dropdowns on the right. Submit filters to see the resulting geochart. Data in the table below will also be filtered accordingly. The GeoChart and the Data Table are created with Google Charts and simple Javascript to elegantly display filtered data by country.
+            </div>
+            <form id="filtersform" class="form-horizontal">
 
-              <label for="metric">Metric</label>
+              <label class="control-label" for="metric">Metric</label>
               <select name="metric" id="metric" class="selectmenu">
                 <option>- Select -</option>
                 <option value="Users">Users</option>
@@ -26,29 +33,29 @@
                 <option value="Revenue">Revenue</option>
               </select><br>
 
-              <label for="Account">Account</label>
+              <label class="control-label" for="Account">Account</label>
               <select name="Account" id="Account" class="selectmenu">
               </select><br>
 
-              <label for="MonthBooked">Date Booked</label>
+              <label class="control-label" for="MonthBooked">Date Booked</label>
               <select name="MonthBooked" id="MonthBooked">
               </select><br>
 
-              <label for="ConsumerGroup">Consumer Group</label>
+              <label class="control-label" for="ConsumerGroup">Consumer Group</label>
               <select name="ConsumerGroup" id="ConsumerGroup" class="selectmenu">
               </select><br>
 
-              <label for="PromotionCode">Promo Code</label>
+              <label class="control-label" for="PromotionCode">Promo Code</label>
               <select name="PromotionCode" id="PromotionCode" class="selectmenu">
               </select><br>
 
-              <input type="submit" value="Send Request">
+              <input type="submit" value="Filter" class="btn btn-success">
 
             </form>
             
           </div>
           <div id="regions_div" style="width: 900px; height: 500px; display: none"></div>
-          <br><br>
+          <br>
         </div>
         <div id="universal_table"></div><br><br>
       </div>

@@ -2,18 +2,15 @@
 	display: none;
 }
 .container {
-	width: 90%;
+	width: 800px;
 	margin: 0 auto;
 }
 
 #regions_div {
   margin: 0 auto;
+  clear: both;
 }
 
-.charts .title {
-	cursor: pointer;
-	font-size: 20px;
-}
 .universal_table {
 	width: 90%;
 	margin: 0 auto;
@@ -26,47 +23,31 @@ body {
   font: 400 17px/2em 'Source Sans Pro', sans-serif;
 }
 
-.select-box {
-  cursor: pointer;
-  position : relative;
-  max-width:  20em;
-  margin: 5px auto;
-  width: 100%;
+form {
+  border: 1px solid black;
+  padding: 10px 20px;
 }
 
-.select,
-.label {
-  color: #414141;
-  display: block;
-  font: 400 17px/2em 'Source Sans Pro', sans-serif;
+select {
+    width: 200px;
+    margin: 0 10px;
 }
 
-.select {
-  width: 100%;
-  position: absolute;
-  top: 0;
-  padding: 5px 0;
-  height: 40px;
-  opacity: 0;
-  -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
-  background: none transparent;
-  border: 0 none;
+label.control-label {
+    width: 140px;
 }
-.label {
-  background: #ececec;
-  position: relative;
-  padding: 5px 10px;
-  cursor: pointer;
+
+.btn-success {
+    margin: 9px 0 0 155px;
+    width: 200px;
 }
-.open .label::after {
-   content: "v";
+.text-instruction {
+    float: left;
+    width: 325px;
+    font-size: 16px;
+    padding: 10px 0;
 }
-.label::after {
-  content: "v";
-  font-size: 12px;
-  position: absolute;
-  right: 0;
-  top: 0;
-  padding: 5px 15px;
-  border-left: 5px solid #fff;
+#filtersform {
+    width: 410px;
+    float: right;
 }
